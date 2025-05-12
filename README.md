@@ -7,7 +7,6 @@ A Java-based secure crypto wallet simulation project using Data Structures and A
 - Secure coin transfers
 - Transaction history
 - File-based data persistence
-- Undo feature using stack
 - DSA-based architecture (HashMap, LinkedList, Stack, etc.)
 
 ## 📚 Technologies
